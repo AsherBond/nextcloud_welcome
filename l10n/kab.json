@@ -1,5 +1,26 @@
 { "translations": {
     "Welcome" : "Ansuf",
-    "Choose" : "Fren"
+    "Dashboard widget to display welcome content" : "Awijit n tfelwit n usenked i uskan n ugbur n wansuf",
+    "ℹ A Markdown rendering Dashboard widget to welcome all users.\n\n⚙ Configure via `Settings > Administration > Theming > Welcome widget`\n\n📄 Pick a Markdown document to be rendered in the widget\n\n💡 If no document is chosen, the widget won't be shown\n\n📝 Edit the Markdown document to update the widget in real-time\n\n🖼 Images are also supported\n\n💬 Configure a contact person to directly start a chat with (requires [Nextcloud Talk](https://apps.nextcloud.com/apps/spreed) to be installed)" : "ℹ D awijit n tfelwit n usenked i useknec n Markdown akken ad yensuf s yiseqdacen meṛṛa.\n\n⚙ Swel seg `Settings > Administration > Theming > Welcome widget`\n\n📄 Fren afaylu Markdown ara d-yettusknen deg uwijit\n\n💡 Ma yella ulac afaylu yettwafernen, awijit ur d-yettban ara\n\n📝 Ẓreg afaylu Markdown akken ad tleqqmeḍ awijit deg wakud n tidet\n\n🖼 Tugniwin ula d nutenti ttwaqbalent\n\n💬 Swel amdan ara tanarmiseḍ akken ad tebduḍ adiwenni srid (yesra [Nextcloud Talk](https://apps.nextcloud.com/apps/spreed) ad yili yettwasbedd)",
+    "Welcome admin options saved" : "Iɣewwaren n unedbal n wansuf ttwaskelsen",
+    "Failed to save welcome admin options" : "Ur yezmir ara ad isekles tixtiṛiyin n unedbal n wansuf",
+    "Choose markdown welcome content file" : "Fren afaylu Markdown n ugbur n wansuf",
+    "Choose" : "Fren",
+    "The Welcome widget is now enabled for all active users" : "Awijit n wansuf yermed tura i yiseqdacen urmiden meṛṛa",
+    "Failed to enable the Welcome widget" : "Ur yezmir ara ad isirmed awijit n wansuf",
+    "Welcome widget" : "Awijit n wansuf",
+    "The dashboard welcome widget will be displayed for all users only if you choose a markdown file." : "Awijit n wansuf n tfelwit n usenked ad d-yettwaskan i yiseqdacen meṛṛa kan ma tferneḍ afaylu Markdown.",
+    "Markdown content file" : "Afaylu n ugbur Markdown",
+    "No file" : "Ulac afaylu",
+    "Widget title" : "Azwel n uwijit",
+    "Support contact" : "Anermis n tallalt",
+    "Choose a support user" : "Fren aseqdac n tallalt",
+    "Support text" : "Aḍris n tallalt",
+    "Example: Call {name} to get help." : "Amedya: Siwel i {name} akken ad tafeḍ tallalt.",
+    "{name} will be replaced by the support user name" : "{name} ad yettubeddel s yisem n useqdac n tallalt",
+    "Enable the widget for all users" : "Rmed awijit i yiseqdacen meṛṛa",
+    "No welcome content" : "Ulac agbur n wansuf",
+    "Talk to your support contact ({name})" : "Mmeslay d unermis-ik n tallalt ({name})",
+    "Talk to {name}" : "Mmeslay d {name}"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
